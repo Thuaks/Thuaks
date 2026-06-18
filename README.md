@@ -14,7 +14,7 @@
 
 # 👋 Hello, I'm Alex Thuku
 
-I'm a **Software Engineer, Data Scientist, and IT Professional** based in Kenya 🇰🇪.
+I'm a **Web developer, Data Scientist, and IT Professional** based in Kenya 🇰🇪.
 
 I enjoy building intelligent, scalable applications that solve real-world problems through software engineering, data, and automation.
 
