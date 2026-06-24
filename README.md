@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Alex Thuku</h1>
+<div align="center">
 
-<h3 align="center">Data Scientist | Web Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Alex%20Thuku&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20|%20Data%20Scientist%20&descAlignY=58&descSize=18"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Insights;Building+Useful+Things+With+Code;Always+Learning%2C+Always+Building;Solving+Real-World+Problems" alt="Typing SVG" />
-</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/Thuaks">
-    <img src="https://komarev.com/ghpvc/?username=Thuaks&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+software+that+solves+real-world+problems;Full-Stack+Developer+%7C+Python+%7C+Django+%7C+React;Data+Scientist+with+a+passion+for+innovation;Creating+technology+for+Africa's+next+billion+users)](https://git.io/typing-svg)
+
+</div>
 
 ---
+
+# 👋 Hello, I'm Alex Thuku
 
 ## 🚀 About Me
 
