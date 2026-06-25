@@ -66,7 +66,7 @@ I'm a data scientist passionate about building practical web applications, uncov
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Project
 
 ### 🚍 Nairobi Matatu Intelligence System
 A data-driven platform designed to provide actionable insights into Nairobi's public transport ecosystem.
