@@ -18,7 +18,7 @@
 
 Welcome to my little corner of GitHub, where data meets code and coffee occasionally becomes a software dependency ☕.
 
-I'm a technology professional passionate about building practical web applications, uncovering insights from data, and creating intelligent solutions with machine learning. I enjoy turning complex problems into simple, useful products that people actually want to use.
+I'm a data scientist passionate about building practical web applications, uncovering insights from data, and creating intelligent solutions with machine learning. I enjoy turning complex problems into simple, useful products that people actually want to use.
 
 - 📊 Data Scientist with a passion for analytics and predictive modeling
 - 🌐 Web Developer focused on building modern, responsive applications
