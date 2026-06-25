@@ -12,7 +12,7 @@
 
 ---
 
-# 👋 Hello, I'm Alex Thuku
+# 👋 Hello, 
 
 ## 🚀 About Me
 
