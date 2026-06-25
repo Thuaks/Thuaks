@@ -71,11 +71,6 @@ I'm a data scientist passionate about building practical web applications, uncov
 ### 🚍 Nairobi Matatu Intelligence System
 A data-driven platform designed to provide actionable insights into Nairobi's public transport ecosystem.
 
-### 🚚 Kenya Transport Intelligence Project
-Leveraging data analytics and intelligent systems to improve transportation decision-making and operational efficiency.
-
-### 🌐 Personal Portfolio Website
-A modern portfolio showcasing my projects, skills, and professional journey.
 
 ---
 
